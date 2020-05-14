@@ -16,3 +16,7 @@ This is an export of a OBS (https://obsproject.com/) scene collection featuring 
 3.) Import the Pantheon.json file into OBS
 
 4.) Reconfigure your Video and Audio sources as relevant to your setup
+
+# Example
+
+![OBS Example](/Pantheon-OBS-Assets/obs-example.png)
